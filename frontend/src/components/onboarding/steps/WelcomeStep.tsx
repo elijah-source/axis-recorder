@@ -24,8 +24,8 @@ export function WelcomeStep() {
 
   return (
     <OnboardingContainer
-      title="Welcome to Meetily"
-      description="Record. Transcribe. Summarize. All on your device."
+      title="Welcome to Capture"
+      description="Record. Transcribe. Summarize. Send to Axis."
       step={1}
       hideProgress={true}
     >
